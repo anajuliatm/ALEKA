@@ -1,0 +1,785 @@
+body {
+    background-image: url(../fotos/imgcadastro.jpg);
+}
+
+#mae {
+    width: 1500px;
+    height: auto;
+    background-color: #DB7093;
+    font-family: sans-serif;
+    color: black;
+}
+
+#cabecalho {
+    width: 1500px;
+    height: 130px;
+    background-color: #FFE4E1;
+    float: left;
+    padding: 0 0 0 5px;
+}
+
+#logo {
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-left: 80px;
+}
+
+#botoes {
+    width: 1000px;
+    height: 110px;
+    float: left;
+    padding: 45px 0 0 20px;
+}
+
+#icones {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 15px;
+}
+
+#carrinho {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+#login {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+#space {
+    width: 1500px;
+    height: 20px;
+    float: right;
+    background-color: #DB7093;
+}
+
+#imgPrincipal {
+    width: 1300px;
+    height: 840px;
+    float: center;
+}
+
+#imgSecundarias {
+    width: 1300px;
+    height: 300px;
+    float: center;
+    padding: 20px 0 0 25px;
+    margin: 30px;
+}
+
+#icText {
+    width: 192px;
+    height: 210px;
+    float: left;
+    margin: 8px;
+    text-align: left;
+    /*titrar cor ao finalizar*/
+}
+
+#videotxt {
+    width: 1300px;
+    height: 400px;
+    float: center;
+}
+
+#p1 {
+    width: 630px;
+    height: 359px;
+    float: left;
+    margin: 10px;
+    padding-top: 25px;
+    text-align: justify;
+}
+
+#rodape {
+    width: 1500px;
+    height: auto;
+    background-color: #FFE4E1;
+    float: left;
+    padding: 20px 0 20px 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+
+}
+
+a:hover {
+    color: purple;
+
+}
+
+a:active {
+    color: purple;
+
+}
+
+#cadastro {
+    float: center;
+    padding: 25px 25px 25px 25px;
+    width: 600px;
+    height: auto;
+    background-color: #DB7093;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    color: #4F4F4F;
+    background-image: url(../fotos/imgcadastro.jpg);
+}
+
+#prod {
+    width: 1500px;
+    height: auto;
+    background-color: #DB7093;
+    float: left;
+}
+
+#pag {
+    width: 1500px;
+    height: 30px;
+    background-color: white;
+    float: center;
+}
+
+#prodesp {
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    float: left;
+    margin: 20px;
+    margin-left: 55px;
+    border-radius: 10px;
+}
+
+h5.card-title {
+    font-size: 15px;
+}
+
+.fundo {
+    float: left;
+    width: 1500px;
+    height: auto;
+    background-color: #DB7093;
+}
+
+#desenvolvimento {
+    width: 1500px;
+    height: 1880px;
+    background-color: #DB7093;
+}
+
+button.face {
+    width: 30px;
+    height: 30px;
+    border-radius: 7px;
+    border: none;
+    background-color: transparent;
+    background-image: url(../fotos/fb.png)
+}
+
+button.admin {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-image: url(../fotos/btnadmin.jpg)
+}
+
+button.padrao {
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    color: dimgrey;
+    border-radius: 5px;
+    border-color: grey;
+    border-style: double;
+    border-width: thin;
+}
+
+button.padrao#atual {
+    background-color: grey;
+    color: white;
+}
+
+button.padrao:hover {
+    background-color: grey;
+    color: white;
+}
+
+a#buy {
+    color: white;
+}
+
+button.carrinho {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-style: groove;
+    background-color: transparent;
+    background-image: url(../fotos/carrinhobotao.png);
+}
+
+#sobre {
+    width: 1000px;
+    height: auto;
+    background-color: #DB7093;
+    float: center;
+}
+
+.sob {
+    width: 1500px;
+    height: auto;
+    background-color: #DB7093;
+    float: left;
+}
+
+.carrinho {
+    width: 1500px;
+    height: auto;
+    background-color: #DB7093;
+    float: left;
+    text-align: justify;
+    padding: 0 10px 10px 20px;
+}
+
+#indicacao {
+    width: 150px;
+    height: 122px;
+    /*    background-image: url(fotos/alekacarrinho.png);*/
+}
+
+#titulos {
+    width: 800px;
+    height: 30px;
+    float: left;
+    background-color: #FFE4E1;
+    padding: 3px 0 3px 5px;
+}
+
+#detalheprod {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 50px;
+}
+
+#titprod {
+    width: 400px;
+    height: auto;
+    color: dimgrey;
+    float: left;
+    padding: 5px;
+}
+
+#titqtd {
+    width: 200px;
+    height: auto;
+    color: dimgrey;
+    float: left;
+    padding: 5px;
+}
+
+#titpreco {
+    width: 180px;
+    height: auto;
+    color: dimgrey;
+    float: left;
+    padding: 5px;
+}
+
+#mostraprod {
+    margin-top: 15px;
+    width: 800px;
+    height: 200px;
+    /*    mudar para auto ↑    */
+    background-color: #FFE4E1;
+}
+
+#resumocomp {
+    width: 400px;
+    height: 400px;
+    background-color: #FFE4E1;
+    float: left;
+    margin-left: 100px;
+    border-radius: 7px;
+}
+
+#centr {
+    float: center;
+    width: auto;
+    height: auto;
+}
+
+#titresumo {
+    padding: 10px 10px 5px 15px;
+    color: dimgrey;
+}
+
+#titres {
+    padding: 0 10px 5px 15px;
+    color: dimgrey;
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+#botaoresumo {
+    width: 350px;
+    height: 80px;
+    float: left;
+    margin: 25px;
+}
+
+#finalizar {
+    width: 350px;
+    height: 80px;
+    border-color: #DB7093;
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: thin;
+    color: dimgrey;
+    font-size: 30px;
+}
+
+#finalizar:hover {
+    width: 350px;
+    height: 80px;
+    border-color: none;
+    border-radius: 10px;
+    background-color: #DB7093;
+    color: white;
+    font-size: 30px;
+
+}
+
+#cadprod {
+    width: 1500px;
+    height: auto;
+    padding: 0 20px 0 20px;
+    background-color: #DB7093;
+    float: left;
+}
+
+#fotoprod {
+    width: 350px;
+    height: 450px;
+    background-color: #FFE4E1;
+    float: center;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+#esqueci {
+    width: 1500px;
+    height: auto;
+    background-image: url(../fotos/imgcadastro.jpg);
+    float: left;
+}
+
+#formesqueci {
+    float: center;
+    width: 300px;
+    height: 450px;
+    background-color: #FFE4E1;
+    margin: 50px;
+    border-radius: 7px;
+    padding: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    border-color: #DB7093;
+    border-width: medium;
+}
+
+button.btnesqueci {
+    border-width: thin;
+    border-radius: 7px;
+    background-color: transparent;
+    border-color: #DB7093;
+    width: 200px;
+    height: 45px;
+    color: dimgrey;
+    border-style: double;
+}
+
+button.btnesqueci:hover {
+    border-width: thin;
+    border-radius: 7px;
+    background-color: #DB7093;
+    border-color: #DB7093;
+    width: 200px;
+    height: 45px;
+    color: dimgrey;
+    border-style: double;
+
+}
+
+#clientes {
+    width: 1500px;
+    height: auto;
+    float: left;
+    background-color: #DB7093;
+    padding: 10px;
+
+}
+
+#tabela {
+    width: 1140px;
+    height: auto;
+    background-color: #FFE4E1;
+    float: center;
+    color: black;
+}
+
+#tabelaprod {
+    width: 1200px;
+    height: auto;
+    background-color: #FFE4E1;
+    float: center;
+    color: black;
+}
+
+.col-#id {
+    width: 5%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+
+.col-#nome {
+    width: 30%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+.col-#email {
+    width: 35%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+.col-#tel {
+    width: 15%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+.col-#preco {
+    width: 6%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+.col-#opt {
+    width: 15%;
+    height: 35px;
+    border-style: solid;
+    border-color: dimgrey;
+}
+
+button.pagina {
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-width: thin;
+    border-color: dimgrey;
+    border-radius: 7px;
+    color: aliceblue;
+    border-style: double;
+    text-align: center;
+}
+
+button.pagina:hover {
+    width: 25px;
+    height: 25px;
+    background-color: dimgrey;
+    border-width: thin;
+    border-color: dimgrey;
+    border-radius: 7px;
+    color: aliceblue;
+    border-style: double;
+    text-align: center;
+}
+
+.carousel {
+    position: inherit;
+}
+
+input.qtdp {
+    border-radius: 3px;
+    border-style: double;
+    border-width: thin;
+    border-color: dimgrey;
+    text-align: center;
+    background-color: #FFE4E1;
+    color: black;
+    font-variant-numeric: normal;
+}
+
+.conteudoest {
+    background-color: #DB7093;
+    width: 1500px;
+    padding: 20px;
+    height: auto;
+    float: left;
+}
+
+#movcaixa {
+    width: 600px;
+    height: auto;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+}
+
+#centralizar {
+    width: 1200px;
+    height: auto;
+    background-color: aqua;
+    float: center;
+}
+
+/*-------------------------------*/
+.open-button {
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    border: none;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+    font-family: sans-serif;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+
+}
+
+/* Add styles to the form container */
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+    font-family: sans-serif;
+    background-image: url(../fotos/imgcadastro.jpg);
+}
+
+/* Full-width input fields */
+.form-container input[type=text],
+.form-container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #FFE4E1;
+    font-family: sans-serif;
+
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus,
+.form-container input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+    font-family: sans-serif;
+
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+    background-color: #DB7093;
+    color: black;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px;
+    opacity: 0.8;
+    font-family: sans-serif;
+
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+    background-color: #DB7093;
+    font-family: sans-serif;
+
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover,
+.open-button:hover {
+    opacity: 1;
+    font-family: sans-serif;
+
+}
+
+/* Menu lateral pagina admin*/
+
+
+
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%;
+    /* 100% Full-height */
+    width: 0;
+    /* 0 width - change this with JavaScript */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Stay on top */
+    top: 0;
+    /* Stay at the top */
+    left: 0;
+    background-color: #A0686B;
+    /* Black*/
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    padding-top: 60px;
+    /* Place content 60px from the top */
+    transition: 0.5s;
+    /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+    width: 800px;
+    text-align: left;
+    height: auto;
+    cursor: alias;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+
+/*----------------------------*/
+/*Pop Up Logado*/
+/* Popup container */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    height: auto;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: -100%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
